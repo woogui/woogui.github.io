@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial configuration of Linux mint installed on VMware
+title: VMware에 설치된 Linux mint 초기설정
 ---
 
 ##VMwareTools 설치

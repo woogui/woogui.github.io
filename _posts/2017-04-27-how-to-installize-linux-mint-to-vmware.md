@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Installize Linux mint to VMware
+title: VMware에 Linux mint 설치하기
 ---
 
 1. 리눅스 민트 블로그를 방문해 자신의 운영체제에 맞는 파일을 내려받는다.
