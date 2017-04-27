@@ -20,8 +20,8 @@ set title			"view title
 set nowrap			"disable word wrap
 ```
 
-<h6>**set**은 **se**로 **num**은 **nu**로 입력 가능하다.<br/>
-**"**는 주석 기호이다.</h6>
+<h6><strong>set</strong>은 <strong>se</strong>로 <strong>num</strong>은 <strong>nu</strong>로 입력 가능하다.<br/>
+<strong>"</strong>는 주석 기호이다.</h6>
 
 4. **vim editor**의 설정이 완료 되었다.
 
