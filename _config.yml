@@ -12,8 +12,7 @@ url:              http://woogui.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Woo Cheol Jung'
 
 paginate:         5
 
